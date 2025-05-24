@@ -1,0 +1,37 @@
+    ======  ======
+    Time:18/09/2019 6:55:20 PM
+    Title: Initiate log
+    Message: 
+    Time:18/09/2019 6:55:20 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:18/09/2019 6:55:20 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:18/09/2019 6:55:20 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:18/09/2019 6:55:20 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:18/09/2019 6:55:20 PM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Time:18/09/2019 6:55:22 PM
+    Title: Value cannot be null.
+Parameter name: String
+    Message:    at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at Telerik.Licensing.Licenser.TryCheckLicenseExists()
+    Entering constructor for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Entering Initialize() for: Telerik.WinControls.Converter.VSPackage.VSPackage
+    Entering constructor for: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering constructor for: Telerik.WinControls.VSPackage.VSPackage
+    Entering constructor for: Telerik.CommonPackage.VSPackage
+    Entering constructor for: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering Initialize() of: DevExpress.ExpressApp.Design.Core.XAFPackageV4
+    Entering DevExpress.ExpressApp.Design.Core.EditorFactory constructor
+    Entering constructor for: DevExpress.ExpressApp.Design.DynamicPackage.VSPkg
+    Entering Initialize() of: Telerik.CommonPackage.VSPackage
+    Entering Initialize() of: Telerik.VSX.UserSettingsPackage.UserSettingsPackage
+    Entering Initialize() for: Telerik.WinControls.VSPackage.VSPackage
